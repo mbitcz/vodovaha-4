@@ -41,3 +41,4 @@ def on_forever():
         led.plot(nova, 2)
         stara = nova
 basic.forever(on_forever)
+
